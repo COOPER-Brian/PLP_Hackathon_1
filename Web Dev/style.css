@@ -1,0 +1,67 @@
+
+#p1{
+    margin-right: 10px;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: chartreuse;
+    size: 10cm;
+}
+#p2{
+    margin-right: 10px;
+    font-size: large;
+    font-family: fantasy;
+    color:gold;
+    size: 10cm;
+}
+#IMAGES{
+    display:flex;
+    background-color: aqua;
+    scroll-behavior: auto;
+    font-weight: bold;
+
+}
+#F{
+    font-style: italic;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: chocolate;
+}
+
+#SCHOOL{
+    font-style: italic;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: chocolate;
+}
+#NAME{
+    font-style: italic;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: tomato;
+}
+#COUNTRY{
+    font-style: italic;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lawngreen
+
+}
+#n{
+    
+    font-weight: 100;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+#c{
+    font-size: medium;
+    font-weight: 100;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+
+}
+#s{
+    font-size: medium;
+    font-weight: 100;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
